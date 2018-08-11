@@ -1,0 +1,10 @@
+{
+  "simulation": "prodGetAnswerCardUser",
+  "simulationId": "prodgetanswercarduser",
+  "start": 1534001818104,
+  "description": "",
+  "scenarios": ["prodGetAnswerCardUser"],
+  "assertions": [
+
+  ]
+}
